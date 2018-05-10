@@ -69,7 +69,7 @@
 //	scanf("%d %d", &R, &C);
 //	for (int i = 0; i < R; i++) scanf("%s", &map[i][0]); // char 형받았을때 이렇게
 //	alpha[map[0][0] - 'A'] = 1;
-//	dfs(0, 0, 1);
+//	dfs(0, 0, 1); // x,y,depth
 //	printf("%d", max);
 //	return 0;
 //}

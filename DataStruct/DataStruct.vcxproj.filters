@@ -19,6 +19,12 @@
     <Filter Include="소스 파일\CodeGround">
       <UniqueIdentifier>{38137fe0-09dc-422b-98c1-b593bb755315}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DFS">
+      <UniqueIdentifier>{a343b8ef-44fa-4162-a903-b405b262760b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BFS">
+      <UniqueIdentifier>{3a762c84-fe55-4734-9969-d52127596457}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.c">
@@ -74,6 +80,135 @@
     </ClCompile>
     <ClCompile Include="practice1.c">
       <Filter>소스 파일\CodeGround</Filter>
+    </ClCompile>
+    <ClCompile Include="practice2.c">
+      <Filter>소스 파일\CodeGround</Filter>
+    </ClCompile>
+    <ClCompile Include="13460.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10875.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2668.c">
+      <Filter>소스 파일\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="9372.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="연결요소.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7562.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2573.cpp">
+      <Filter>소스 파일\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="5213.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="6593.cpp">
+      <Filter>소스 파일\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="3055.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2151.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="14503.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="10875.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14500.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="room.cpp">
+      <Filter>소스 파일\CodeGround</Filter>
+    </ClCompile>
+    <ClCompile Include="pacpp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="qq.c">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2538.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7569.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="13458.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14501.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dddddddd.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mir.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="369game.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3035pra.cpp">
+      <Filter>소스 파일\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="C회의실배정.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="A도약.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="B예산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="K자외선을피해가기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="E리사의생일파티.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="F자동차경주대회.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="I보너스.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="G그래프칠하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="J토마토.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="R구슬집어넣기게임.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="M등산로찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="N치즈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="O불켜기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C불.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="고기잡이.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D소시지공장.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="L경찰차.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

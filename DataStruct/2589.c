@@ -44,7 +44,6 @@
 //	int nextX, nextY;
 //	while (isEmpty()) {
 //		q pop = deque();
-//	//	printf("front = %d, pop.x = %d, pop.y = %d, visit[%d][%d]= %d \n", front, pop.x, pop.y, pop.x, pop.y, visit[pop.x][pop.y]);
 //		for (int i = 0; i < 4; i++) {
 //			nextX = vectX[i] + pop.x;
 //			nextY = vectY[i] + pop.y;
@@ -53,19 +52,13 @@
 //				if (map[nextX][nextY] == 'L'&& visit[nextX][nextY] == 0) { // 움직일수있는 L, 방문하지 않은 곳
 //					visit[nextX][nextY] = visit[pop.x][pop.y] + 1;
 //					enque(nextX,nextY);
-//
-//					//printf("i = %d, nextX = %d, nextY = %d, visit[%d][%d]= %d, rear = %d ", i, nextX, nextY,nextX,nextY, visit[nextX][nextY], rear);
 //				}
 //				if (visit[nextX][nextY] > count) {
 //					count = visit[nextX][nextY];
-//				//	printf(", count = %d ", count);
 //				}
-//			//	printf("\n");
-//
 //			}
 //			
 //		}
-//		//printf("\n===================================\n\n\n");
 //	}
 //	return count;
 //}
@@ -83,6 +76,12 @@
 //			if (map[i][j] == 'L') { //L을 발견하면 그곳이 시작점
 //				enque(i, j);
 //				val = bfs();
+//			/*	for (int a = 0; a < N; a++) {
+//					for (int b = 0; b < M; b++) {
+//						visit[a][b] = 0;
+//					}
+//				}
+//			*/
 //				memset(visit, 0, sizeof(visit) / sizeof(int));
 //				if (val > max)
 //					max = val;

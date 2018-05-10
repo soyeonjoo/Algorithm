@@ -31,3 +31,7 @@
 //	for (int i = 0; i <= t;i++)printf("%d ", count[i]);
 //	return 0;
 //}
+//
+//
+//
+//
